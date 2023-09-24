@@ -6,6 +6,7 @@ function App() {
   console.log(`isOpen`, isOpen);
   return (
     <>
+      <h1>Navbar</h1>
       <h1> I am feeling lucky</h1>
       <div style={{ display: "flex" }}>
         {isOpen && <h1>Hello</h1>}
