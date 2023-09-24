@@ -1,4 +1,4 @@
-import { useState } from "react"; // Bibek
+import { useState } from "react"; // Bibek Dhungana
 import "./App.css";
 
 function App() {
