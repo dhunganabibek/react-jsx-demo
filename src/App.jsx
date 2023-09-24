@@ -7,6 +7,7 @@ function App() {
   return (
     <>
       <h1>Navbar</h1>
+      <h1>Hero</h1>
       <h1> I am feeling lucky</h1>
       <div style={{ display: "flex" }}>
         {isOpen && <h1>Hello</h1>}
