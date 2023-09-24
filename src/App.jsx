@@ -14,6 +14,7 @@ function App() {
       </div>
 
       <h1> Thank you</h1>
+      <h1>footer</h1>
     </>
   );
 }
